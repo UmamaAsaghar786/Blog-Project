@@ -15,11 +15,11 @@ A **feature-rich** and **responsive** blog platform designed with modern web tec
 - **JavaScript** for interactivity and dynamic content
 
 ## 📸 Preview
-![Blog Website Preview](path/to/screenshot.png)
+https://github.com/UmamaAsaghar786/Blog-Project.git
 
 ## 🚧 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-website.git
+   https://github.com/UmamaAsaghar786/Blog-Project.git
 🌟 Contribute
 Feel free to fork this project, make improvements, and open a pull request. Contributions are welcome!
